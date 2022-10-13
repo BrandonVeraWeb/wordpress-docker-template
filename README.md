@@ -19,5 +19,5 @@ docker compose down
 ## Remove the project
 
 ```bash
-docker compose down --volumes
+bash remove-volumes.sh
 ```
