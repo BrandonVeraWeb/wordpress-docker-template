@@ -1,5 +1,13 @@
 # Run Wordpress with Docker Compose
 
+## Prepare the environment
+
+```bash
+bash prepare.sh
+```
+
+Then you can update the `.env` file to change the default values.
+
 ## Build the project
 
 ```bash
